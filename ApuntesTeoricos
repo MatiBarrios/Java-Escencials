@@ -1,0 +1,36 @@
+¿Que es java?
+Java es un lenguaje de programación creado con una filosofia multiplataforma.
+su metodo de funcionamiento es traducir el codigo a lenguaje maquina para que no tengamos que aprenderlo.
+
+¿Que es un objeto?
+Un objeto es una abstracción del mundo real y como todo objeto tiene atributos, que serían adjetivos que definen al objeto y metodos, que son los verbos o lo que este realiza.
+
+Facilidades de java:
+Abstracción: Es la capacidad de conocer el funcionamiento de un objeto sin entender su complejidad. Como pisar el desacelerador, sabemos lo que hace pero no es necesario que conozcamos el mecanismo que tiene detras.
+Encapsulación: Nos permite proteger datos y codigo de ser manipulados desde el exterior de una manera diferente a la que hayamos programado.
+Polimorfismo: La capacidad de mandar mensajes similares a objetos diferentes.
+Herencia: Un objeto puede adquirir las propiedades de otro.
+
+¿Que es un identificador?
+
+Consiste en el nombre que le asignamos a diferentes elementos, variables, metodos, clases, paquetes e interfaces.
+
+Debe de comenzar con una letra, guion bajo o caracter de moneda y puede contener letras, guion bajo, caracter de moneda o caracteres de conexión.
+Debe de tener una longitud, no puede ser una palabra clave, es case sensitive
+
+Convenciones de identificadores:
+
+Clases e interfaces:
+UpperCamelCase (cada palabra en la frase va en mayus), Acrónimos (Solo la primer palabra esta en mayus).
+
+Metodos:
+lowerCamelCase (La primera no va en mayus, las demas si), Verbos en infitinivo o imperativo.
+
+Variables:
+lowerCamelCase (La primera no va en mayus, las demas si), Nombres Descriptivos.
+
+Constantes:
+TODO_MAYUS_SEPARANDO_POR_GUION_BAJO.
+
+¿Que es una palabra clave?
+Son las palabras reservadas de java para realizar operaciones especificas y no pueden ser usadas por el usuario.
